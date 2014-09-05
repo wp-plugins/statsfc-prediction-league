@@ -3,8 +3,8 @@ Contributors: willjw
 Donate link:
 Tags: widget, football, soccer, score, predictor, prediction, league, premier league, fa cup, league cup, champions league, europa league, uefa
 Requires at least: 3.3
-Tested up to: 3.9
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,7 +38,7 @@ You can also use the `[statsfc-prediction-league]` shortcode, with the following
 
 == Changelog ==
 
-
+**1.0.1**: Use built-in WordPress HTTP API functions
 
 == Upgrade notice ==
 
