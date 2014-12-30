@@ -12,9 +12,9 @@ This widget will place a prediction league for a competition of your choice on y
 
 == Description ==
 
-Add a prediction league to your WordPress website. To request an API key sign up for free at [statsfc.com](https://statsfc.com).
+Add a prediction league to your WordPress website. To request a key sign up for your free trial at [statsfc.com](https://statsfc.com).
 
-For a demo, check out [wp.statsfc.com/prediction-league](http://wp.statsfc.com/prediction-league).
+For a demo, check out [wp.statsfc.com/prediction-league/](http://wp.statsfc.com/prediction-league/).
 
 == Installation ==
 
