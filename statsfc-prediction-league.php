@@ -66,19 +66,19 @@ class StatsFC_PredictionLeague extends WP_Widget
         ?>
         <p>
             <label>
-                <?php _e('Title', STATSFC_PREDICTIONLEAGUE_ID); ?>:
+                <?php _e('Title', STATSFC_PREDICTIONLEAGUE_ID); ?>
                 <input class="widefat" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo esc_attr($title); ?>">
             </label>
         </p>
         <p>
             <label>
-                <?php _e('StatsFC Key', STATSFC_PREDICTIONLEAGUE_ID); ?>:
+                <?php _e('StatsFC Key', STATSFC_PREDICTIONLEAGUE_ID); ?>
                 <input class="widefat" name="<?php echo $this->get_field_name('key'); ?>" type="text" value="<?php echo esc_attr($key); ?>">
             </label>
         </p>
         <p>
             <label>
-                <?php _e('Competition', STATSFC_PREDICTIONLEAGUE_ID); ?>:
+                <?php _e('Competition', STATSFC_PREDICTIONLEAGUE_ID); ?>
                 <input class="widefat" name="<?php echo $this->get_field_name('competition'); ?>" type="text" value="<?php echo esc_attr($competition); ?>">
             </label>
         </p>
